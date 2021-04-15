@@ -2,7 +2,7 @@
 
 A Call of Duty 4 map, made for the PussTheCat.org Kill the King server: mp_pussthecat_org_l
 
-The was basically lolzor, but on one floor, and in an L shape
+The idea was basically lolzor, but on one floor, and in an L shape
 
 ## Credits:
 
